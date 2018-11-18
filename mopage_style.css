@@ -1,0 +1,139 @@
+img {
+	width:490px;
+    height: auto;
+}
+
+mospace-heroarea .mospace-heroarea--name, mospace-heroarea .mospace-heroarea--donations-target-amount-number {
+    font-family: "Overpass",sans-serif;
+    letter-spacing: normal;
+}
+p, h1, h2 {
+	font-family: "Overpass",sans-serif;
+    letter-spacing: normal;
+
+}
+
+h1{
+	font-size: 52px;
+	font-weight: 700;
+}
+
+h2{
+	font-size: 40px;
+}
+
+body{
+	margin: 0;
+}
+
+#profile_pic{
+	float:left;
+	margin-left: 3%;
+	padding-right: 3%;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 70px;
+}
+
+#info{
+	padding: 20px 20px 20px 0px;
+}
+#nav_image{
+	position: fixed;
+	width: 100%;
+  	top: 0;
+	box-shadow: 0px 7px 36px -10px rgba(168,168,168,1);
+}
+
+#logo{
+	width:6%;
+    height: auto;
+    float: right;
+}
+
+#footer{
+	width: 100%;
+  	bottom: 0;
+}
+
+#motivation{
+	width: 60%;
+	padding-left: 0;
+	float:right;
+}
+
+#target{
+	width: 50%;
+	padding-bottom: 20px;
+}
+
+#buttons{
+	margin-left: : 20%;
+}
+
+
+
+button{
+	display: inline-block;
+    vertical-align: middle;
+    padding: 0 15px;
+    font-size: 16px;
+    font-family: "Anton",sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-decoration: none;
+    border-width: 2px;
+    border-style: solid;
+    min-height: 48px;
+    line-height: 45px;
+    cursor: pointer;
+    outline: none;
+    
+    height: 70px;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+#donate:hover{
+	background-color: black;
+	border-color: black;
+}
+
+#donate{
+	color: #FFF;
+    background-color: #00ADA8;
+    border-color: #00ADA8;
+}
+
+#ask, #earn:hover{
+	border-color: black;
+	background-color: white;
+	color: black;
+}
+
+#ask:hover, #earn{
+	background-color: black;
+	color: white;
+	border-color: black;
+}
+
+#dark_part{
+}
+
+#bottom{
+	width: 100%;
+	display: block;
+}
+
+
+
+
+
+
