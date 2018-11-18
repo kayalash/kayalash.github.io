@@ -1,4 +1,4 @@
-**Hey guys, welcome to the best movember of your life.**
+# Welcome to the best Movember of your life.
 
 Just hear from all of our happy mo'friends!
 
